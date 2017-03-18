@@ -1,0 +1,16 @@
+{
+  "name": "getprimes",
+  "version": "1.0.0",
+  "description": "Andela Day 2 Excersise",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "jasmine tests/tests.js"
+  },
+  "author": "Obinna Okwuolisa",
+  "license": "ISC"
+}
